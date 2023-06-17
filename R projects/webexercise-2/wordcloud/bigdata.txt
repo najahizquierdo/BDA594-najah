@@ -1,0 +1,48 @@
+﻿My idea of big data is a large amount of information collected about either people or other things that we can use to explain how or why things occur 
+"From my understanding, big data, refers to different kinds of large data sets that are hard to manage, but that can be mined for information to be used in various ways/projects."
+Big Data consists of large and/or complex datasets
+"Big Data pertains to huge volumes of data that can be analysed to uncover patterns and trends, which in turn can be used to produce meaningful information. "
+"Big data, in my own words, are datasets that are vast and complex with information usually at a very disaggregate level. "
+Big data is a huge volume of data which is non homogeneous 
+I believe big data is large data sets of information that can be assessed and analyzed to provide solutions for their organizations' needs.
+"Big Data is a large pool of data that is manipulated and reviewed to identify trends that are then used in science, business, etc."
+Describe the overall characteristics and development of the data subject by analyzing a large amount of data
+"Big data refers to the large combination of structured, semistructured and unstructured data which is complex to solve using traditional application methods"
+"In my terms, Big data referred to as a data which is in huge volume, and coming with huge speeds in various different forms."
+Big Data: The use of different programing techniques to understand and unpack big data sets in order to find patterns and uses for the data.
+"Big Data is a category of data that deals with humongous amounts of data, with millions of rows and columns of data which is then manipulated and converted to simple information to make it more accessible to people and also analyse and design machine learning models to develop better solutions. "
+Big data is a collection of large sets of data and provides an efficient way to manage the data thereby eliminating the limitations of the traditional database management techniques.
+Extracting reliable information for business use and decision making from high volume of data collected through different sources.
+"Big Data is the raw collection of large tables of data that exceed a relevant threshold of size: maybe megabytes to gigabytes worth of information that can be cleaned, sorted, and of which statistical inference can be performed on. Like that of finance or genomics"
+The art of extracting meaning from meaningless data
+Complex information to describe a phenomena
+Big data is particularly large datasets that require special processes or greater computing power to handle.
+My defiition of big data is sets of data that are so big that group of data scientists need to break down in smaller chunks in order to understand the implication & usage of data set.
+data sets that are too large or complex to be dealt with by traditional data-processing softwares are called big data.
+"Structured, unstructured and semi-unstructured data. Relates to audio, video and text files."
+"Big data is veryÂ veryÂ veryÂ large data sets. For example, data from social media comes in exponentially, growing and expandingÂ in vast areas continuously. This amount of data is too large and too dynamic to use typical procedures and tools used for small data."
+Plenty of data fills out the world. A method that analyze such data efficiently.
+"Large amounts of data, usually in the multi terabyte range or even higher."
+Big Data is a valuable source of information that can be used in explaining and predicting firms and human behaviors. 
+"Big data are big sets of data, all kind of data like structured and unstructured which are difficult to analyse using traditional methods."
+"databased that encompasses and reflects all aspects of humans' interaction, activities and behavior patterns"
+"Big Data is collection of different type of data i.e., structured, semi structured and unstructured from different sources. For example, data of tweets from twitter and climate data from weather forecast department combined together. "
+The term Big Data refers to large volume of data which gets accumulated by different websites and applications. Big data needs to be synthesized and needs to be presented in a way that can be easily accessed and understandable.
+Big data is Large and diverse( structured and unstructured) set of data containing knowledge and information which is growing exponentially. 
+Big Data deals with huge volumes of complex data. This data can be of any form - text/video/picture/number. To find pattern and relation between the data in minimum processing speed is the main objective of Analytics field.
+To me data is information that can be in any form. Data is a more refined version of information on which analysis or any kind of operations can be done.
+"Big data is the data which is present in huge quantities, for example, the data of number of users using Instagram each day can be considered as big data. Big data is defined by 3 V's - Velocity, Volume and Veracity. "
+Big Data is a hodgepodge of data from which meaningful information about the World can be derived. 
+I learned the concept of Big Data in my GIS internship from some of the other Data Analysts. To my knowledge they deal with large data sets either collected from environmental scientists or the engineers and they work through them to analyze the best course of action  
+Big data is huge and complex data that is unprocessed.
+"According to me, Big data refers to massive data sets that contains structured and unstructured data, then used to find the patterns to serve the day to day business needs."
+Big Data is very large amount of unstructured and unorganized data.
+Massive information in terms of volume and variety which is a combination of structured and unstructured data.
+"Collection of large sets of data from the real world that are typically unstructured. We can extract trends and patterns from this data to convert it to useful information (like market trends, spread of viruses, etc)"
+"In my opinion, Big Data means a large volume of data with an emphasis on the time and location of where the data is originating from. With this data, we can form meaningful patterns, predict trends and perform analysis to make our models more efficient.   "
+"Big Data to me is large, diverse, data that has a lot of potential to impact heavily trafficked or populated areas "
+Big data is like large amount of data that can be used to make important decisions.
+to get as much information out of a dataset as possible
+Large massive volume of data which can be used to address some business or real world problems.
+"According to me big data is the vast amount of data which is getting generated from different forms such as social media, machinery usage, day to day transactions etc. This data is in unstructured format, also having various types including images, numbers, video files, audio files, sensor data etc.  "
+"large volumes of data which consists of both structured and unstructured, which is difficult to process traditional data-processing application software is called as Big data and the analysis of it is called as Big data analysis."
